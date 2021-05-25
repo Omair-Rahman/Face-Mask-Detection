@@ -1,0 +1,28 @@
+This training images speparated in several folder for WithMask and WithoutMask both.
+
+GitHud does not give permission to put more than 1000 files in one folder. So that we need to put images in several folder.
+
+Please merge the images in one folder while train the project model.
+
+
+WithMask folder is separated in
+
+	  i) WithMask1
+	 ii) WithMask2
+	iii) WithMask3
+	 iv) WithMask4
+	  v) WithMask5
+	 vi) WithMask6
+
+This 6 folders contain total of 5297 images.
+
+WithoutMask folder is separated in
+
+	  i) WithoutMask1
+	 ii) WithoutMask2
+	iii) WithoutMask3
+	 iv) WithoutMask4
+	  v) WithoutMask5
+	 vi) WithoutMask6
+
+This 6 folders contain total of 5300 images.
