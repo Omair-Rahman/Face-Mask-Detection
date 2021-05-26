@@ -1,1 +1,1 @@
-This folder contains latex source files and figures 
+This folder contains latex source files and figures.
